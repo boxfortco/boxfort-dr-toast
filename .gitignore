@@ -1,0 +1,8 @@
+.DS_Store
+**/*.xcuserstate
+**/xcuserdata/
+
+# Local env (web also ignores .env*)
+.env
+.env.local
+.env.*.local
